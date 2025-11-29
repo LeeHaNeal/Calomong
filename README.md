@@ -25,10 +25,6 @@ React, Spring Boot, Oracle DB 기반이며, 팀장으로서 기획과 백엔드 
 - 챌린지/랭킹 시스템 설계 및 구현
 - 기능 통합 및 최종 QA 테스트
 
-## 스크린샷
-![Calomong Main](./screenshot.png)
-![Calomong Challenge](./screenshot_challenge.png)
-
 ## 연락처
 - 이메일: harull817@naver.com
 - GitHub: [LeeHaNeal](https://github.com/LeeHaNeal)
